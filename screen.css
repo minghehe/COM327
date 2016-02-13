@@ -1,11 +1,19 @@
+body{
+  font-family:Century Gothic, Sans-Serif;
+  font-size:16px;
+}
+body {
+  font-size: 1.125em; /* 18px/16px = 1.125 */
+  line-height: 1.4400000000000002em; /* 25.92px / 18px */
+  padding-top: 1.4400000000000002em; /* 25.92px / 18px */
+  padding-left: 1.200em; /* 5:6 ratio on baseline */
+  padding-right: 0.600em; /* half the 5:6 ratio */
+  text-size-adjust: 100%;
+}
 
-<head>
-<style>
-a:link {color:#FF0000;}    /*The link/
-</style>
-</head>
-
-<body>
-<p><b><a href=".//index.html" target="_blank">This is a link</a></b></p>
-</body>
-</html>
+h1,.{
+  font-size: 1.728em; /* 31.104px / 18px */
+  line-height: 1.6666666666666667em; /* 25.92 * 2 / 31.104 */
+  padding-top: 0.8333333333333334em; /* 25.92px / 31.104 */
+  padding-bottom: 1.6666666666666667em; /* 25.92 * 2 / 31.104 */
+}
