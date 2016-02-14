@@ -1,8 +1,5 @@
 body{
   font-family:Century Gothic, Sans-Serif;
-  font-size:16px;
-}
-body {
   font-size: 1.125em; /* 18px/16px = 1.125 */
   line-height: 1.4400000000000002em; /* 25.92px / 18px */
   padding-top: 1.4400000000000002em; /* 25.92px / 18px */
@@ -16,4 +13,7 @@ h1,.{
   line-height: 1.6666666666666667em; /* 25.92 * 2 / 31.104 */
   padding-top: 0.8333333333333334em; /* 25.92px / 31.104 */
   padding-bottom: 1.6666666666666667em; /* 25.92 * 2 / 31.104 */
+}
+.background{
+  background-color:#ffb84d;
 }
