@@ -49,6 +49,10 @@ table {
 
 /* Custom site styles */
 
+p{
+  font-weight:normal;
+  font-color: #FFB547;
+}
 
 body{
   font-family:Century Gothic, Sans-Serif;
@@ -58,14 +62,13 @@ body{
   padding-left: 1.200em; /* 5:6 ratio on baseline */
   padding-right: 0.600em; /* half the 5:6 ratio */
   text-size-adjust: 100%;
+  background-color:#ffb84d;
 }
 
 h1,.{
+  font-family: Rockwell;
   font-size: 1.728em; /* 31.104px / 18px */
   line-height: 1.6666666666666667em; /* 25.92 * 2 / 31.104 */
   padding-top: 0.8333333333333334em; /* 25.92px / 31.104 */
   padding-bottom: 1.6666666666666667em; /* 25.92 * 2 / 31.104 */
-}
-.background{
-  background-color:#ffb84d;
 }
