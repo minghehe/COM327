@@ -51,7 +51,7 @@ table {
 
 p{
   font-weight:normal;
-  font-color: #FFB547;
+  color: #FFB547;
 }
 
 body{
@@ -65,7 +65,7 @@ body{
   background-color:#ffb84d;
 }
 
-h1,.{
+h1 {
   font-family: Rockwell;
   font-size: 1.728em; /* 31.104px / 18px */
   line-height: 1.6666666666666667em; /* 25.92 * 2 / 31.104 */
