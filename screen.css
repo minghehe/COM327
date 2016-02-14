@@ -49,11 +49,6 @@ table {
 
 /* Custom site styles */
 
-p{
-  font-weight:normal;
-  color: #FFB547;
-}
-
 body{
   font-family:Century Gothic, Sans-Serif;
   font-size: 1.125em; /* 18px/16px = 1.125 */
@@ -66,6 +61,7 @@ body{
 }
 
 h1 {
+  color: #FFB547;
   font-family: Rockwell;
   font-size: 1.728em; /* 31.104px / 18px */
   line-height: 1.6666666666666667em; /* 25.92 * 2 / 31.104 */
