@@ -48,7 +48,10 @@ table {
 }
 
 /* Custom site styles */
-
+p {
+  padding: 10px;
+  font-weight: 500;
+}
 body{
   font-family:Century Gothic, Sans-Serif;
   font-size: 1.125em; /* 18px/16px = 1.125 */
